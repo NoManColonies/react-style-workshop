@@ -1,0 +1,6 @@
+.button__wrapper {
+  border: 2px solid black;
+  background-color: grey;
+  padding: 0.5rem 0.8rem;
+  border-radius: 0.25rem;
+}

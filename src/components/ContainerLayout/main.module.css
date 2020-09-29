@@ -1,0 +1,4 @@
+.container__layout__wrapper {
+  display: grid;
+  grid-template-columns: 100%;
+}

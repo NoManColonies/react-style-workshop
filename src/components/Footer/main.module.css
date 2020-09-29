@@ -1,0 +1,23 @@
+.footer__wrapper {
+  grid-row: 3;
+  height: 10vh;
+  background-color: purple;
+  display: grid;
+  grid-template-columns: 80% 20%;
+  width: 100vw;
+}
+
+.footer__info {
+  grid-column: 1;
+  padding-left: 1rem;
+  display: flex;
+  align-items: center;
+}
+
+.footer__actions {
+  grid-column: 2;
+  padding-right: 1rem;
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+}
